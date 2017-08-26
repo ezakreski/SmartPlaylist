@@ -40,8 +40,8 @@ Assumptions/Requirements:
         "show.ep1" is bad, "show.ep01" is good  
     -consistency in a naming scheme is key otherwise you can have unexpected playing orders
 
--mplayer must be installed
+-mplayer must be installed, working on getting a vlc option
 
-
+-must use python v 2.7, may update to newest version 
 
 
